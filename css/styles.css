@@ -227,3 +227,7 @@ img{
         column-gap: 2rem;
     }
 }
+/* Entrada */
+.entrada__info{
+    text-align: justify;
+}
